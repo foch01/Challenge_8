@@ -1,0 +1,27 @@
+.nopad {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+
+.boite-bottom {
+    padding: 20px 0 20px 0;
+    border-top: 1px solid grey;
+    border-right: 1px solid grey;
+    border-left: 1px solid grey;
+}
+
+.boite {
+    padding: 20px 0 20px 0;
+    border: 1px solid grey;
+}
+
+.boite-right {
+    border-right: none !important;
+}
+
+.btn-lg {
+    width: 100%;
+}
+
+    
