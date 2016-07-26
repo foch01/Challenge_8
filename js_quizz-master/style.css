@@ -24,4 +24,21 @@
     width: 100%;
 }
 
-    
+.cursor {
+    cursor: pointer;
+}
+
+.green {
+    background-color: green;
+}
+
+.faux {
+    background-color: red;
+}
+
+.bx-wrapper .bx-viewport {
+    box-shadow: none;
+}
+.bx-controls-direction{
+    display:none;
+}
