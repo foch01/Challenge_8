@@ -29,11 +29,15 @@
 }
 
 .green {
-    background-color: green;
+    background-color: #B3EB7A;
 }
 
 .faux {
-    background-color: red;
+    background-color: #FF6666;
+}
+
+.none {
+    background-color: orange;
 }
 
 .bx-wrapper .bx-viewport {
@@ -41,4 +45,12 @@
 }
 .bx-controls-direction{
     display:none;
+}
+
+.btn:hover,.btn:focus, .btn:active {
+    text-decoration: none;
+    outline: 0;
+}
+.padding {
+    margin-left: 50px;
 }
